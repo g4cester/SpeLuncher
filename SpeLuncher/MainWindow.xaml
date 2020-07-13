@@ -6,7 +6,7 @@
         xmlns:local="clr-namespace:SpeLuncher"
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
-    <Grid>
+    <Grid Margin="0,0,-511.667,-306.333">
         
     </Grid>
 </Window>
